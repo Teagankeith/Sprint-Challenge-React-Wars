@@ -6,7 +6,7 @@ import Div from "./Div"
 
 ///Style Maker////
 
-function makeStyle(count){
+function makeStyle(){
     return {
       bigSpan: {
         width: '100%'
